@@ -23,4 +23,4 @@ Team edge case: `C2F -40` gives `-40 F` (negative temperature).
 - Output uses default C++ precision (about 6 digits).
 
 ## AI-Use Disclosure
-Claude helped draft the code, tests, workflow and README. I ran and tested everything and can explain how it works.
+I used AI to help debug issues throughout code.
